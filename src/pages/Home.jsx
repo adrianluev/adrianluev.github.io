@@ -64,7 +64,7 @@ const Home = () => {
                     <iframe className="video" width="420" height="240" src="https://www.youtube.com/embed/MtN1YnoL46Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
                 <div>
-                    <input type="button" value="Click to LEARN MORE!" onClick={click}/>
+                    <input className="boton" type="button" value="Click to LEARN MORE!" onClick={click}/>
                 </div>
         </div>
         </div>
